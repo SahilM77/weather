@@ -1,4 +1,4 @@
-const apikey ="Here past the apikey";
+const apikey ="YOUR_API_KEY";
 
 const blogContainer = document.getElementById("blog-container");
 
